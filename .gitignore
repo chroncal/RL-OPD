@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+timeline_self_distill/data/
+timeline_self_distill/results/
+*.log
+wandb/
+*.safetensors
+*.pt
+*.bin
